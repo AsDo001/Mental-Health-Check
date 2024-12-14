@@ -7,3 +7,4 @@ The project is aimed at early detection of signs of mental health problems, and 
 
 **Early detection**: Identify the first signs of mental disorders, such as depression or anxiety disorders, based on text message analysis.
 
+![Mental problems are important](imageees/one.jpg)
